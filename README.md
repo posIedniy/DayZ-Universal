@@ -1,7 +1,7 @@
 # RDayZ 
 
 ### Public issues for a project:
-[https://github.com/PosledniyZlodey/RDayZ-Dev](https://github.com/posIedniy/DayZ-Universal-Dev) (Private)
+[https://github.com/posIedniy/DayZ-Universal-Dev](https://github.com/posIedniy/DayZ-Universal-Dev) (Private)
 
 ### Website:
 - (Coming)
@@ -9,7 +9,7 @@
 ### Other links:
 
 - VK: (Coming)
-- Discord: https://discord.gg/bPVXk8NM5N
+- Discord: https://discord.gg/soon
 
 # Translating
 
