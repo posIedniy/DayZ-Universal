@@ -1,4 +1,4 @@
-# RDayZ 
+# DayZ Universal
 
 ### Public issues for a project:
 [https://github.com/posIedniy/DayZ-Universal-Dev](https://github.com/posIedniy/DayZ-Universal-Dev) (Private)
