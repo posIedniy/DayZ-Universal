@@ -16,4 +16,4 @@
 **1.** Do not remove the **%s** parts from text. It used for text formatting.
 
 # Contributors
-[@PosledniyZlodey](https://github.com/PosledniyZlodey)
+[@posIedniy](https://github.com/posIedniy)
