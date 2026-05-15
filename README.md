@@ -1,7 +1,7 @@
 # RDayZ 
 
 ### Public issues for a project:
-https://github.com/PosledniyZlodey/RDayZ-Dev (Private)
+[https://github.com/PosledniyZlodey/RDayZ-Dev](https://github.com/posIedniy/DayZ-Universal-Dev) (Private)
 
 ### Website:
 - (Coming)
