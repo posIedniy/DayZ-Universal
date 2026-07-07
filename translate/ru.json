@@ -3,6 +3,20 @@
     ["death.main", "Вы погибли! Возрождение произойдёт по окончании таймера."],
     ["death.reason.prefix", "Причина смерти:"],
     ["death.accident_suffix", "несчастный случай"],
-    ["death.killed_by", "Убит игроком %s [%s] оружием %s на %s"]
+    ["death.killed_by", "Убит игроком %s [%s] оружием %s на %s"],
+
+    ["chat.input.hint", "Нажмите 'X' чтобы изменить."],
+
+    ["chat.mode.global", "Общий"],
+    ["chat.mode.talk", "Говорить"],
+    ["chat.mode.shout", "Кринуть"],
+    ["chat.mode.whisper", "Шепнуть"],
+    ["chat.mode.action", "Действие"],
+
+    ["chat.channel.global", "(Общий)"],
+    ["chat.channel.talk", "сказал"],
+    ["chat.channel.shout", "крикнул"],
+    ["chat.channel.whisper", "шепнул"],
+    ["chat.channel.staff", "(Staff)"]
   ]
 ]

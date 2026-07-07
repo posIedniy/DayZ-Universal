@@ -3,6 +3,20 @@
     ["death.main", "You're dead! The rebirth will occur at the end of the timer."],
     ["death.reason.prefix", "Reason of death:"],
     ["death.accident_suffix", "an accident"],
-    ["death.killed_by", "Killed by %s [%s] with %s at %s"]
+    ["death.killed_by", "Killed by %s [%s] with %s at %s"],
+
+    ["chat.input.hint", "Click 'X' to change it."],
+
+    ["chat.mode.global", "Global"],
+    ["chat.mode.talk", "Talk"],
+    ["chat.mode.shout", "Shout"],
+    ["chat.mode.whisper", "Whisper"],
+    ["chat.mode.action", "Action"],
+
+    ["chat.channel.global", "(Global)"],
+    ["chat.channel.talk", "talk"],
+    ["chat.channel.shout", "shout"],
+    ["chat.channel.whisper", "whisper"],
+    ["chat.channel.staff", "(Staff)"]
   ]
 ]
