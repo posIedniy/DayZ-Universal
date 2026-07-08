@@ -5,7 +5,7 @@
     ["death.accident_suffix", "an accident"],
     ["death.killed_by", "Killed by %s [%s] with %s at %s"],
 
-    ["chat.input.hint", "Click 'X' to change it."],
+    ["chat.input.hint", "Click '%s' to change it."],
 
     ["chat.mode.global", "Global"],
     ["chat.mode.talk", "Talk"],

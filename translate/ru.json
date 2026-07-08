@@ -5,7 +5,7 @@
     ["death.accident_suffix", "несчастный случай"],
     ["death.killed_by", "Убит игроком %s [%s] оружием %s на %s"],
 
-    ["chat.input.hint", "Нажмите 'X' чтобы изменить."],
+    ["chat.input.hint", "Нажмите '%s' чтобы изменить."],
 
     ["chat.mode.global", "Общий"],
     ["chat.mode.talk", "Говорить"],
