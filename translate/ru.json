@@ -12,6 +12,8 @@
     ["chat.mode.shout", "Кринуть"],
     ["chat.mode.whisper", "Шепнуть"],
     ["chat.mode.action", "Действие"],
+    ["chat.mode.player.join", "%s подключился к серверу."],
+    ["chat.mode.player.leave", "%s отключился от сервера [%s]."],
 
     ["chat.channel.global", "(Общий)"],
     ["chat.channel.talk", "сказал"],
