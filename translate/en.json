@@ -12,6 +12,8 @@
     ["chat.mode.shout", "Shout"],
     ["chat.mode.whisper", "Whisper"],
     ["chat.mode.action", "Action"],
+    ["chat.mode.player.join", "%s connected to the server."],
+    ["chat.mode.player.leave", "%s disconnected from the server [%s]."],
 
     ["chat.channel.global", "(Global)"],
     ["chat.channel.talk", "talk"],
