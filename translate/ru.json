@@ -19,6 +19,25 @@
     ["chat.channel.talk", "сказал"],
     ["chat.channel.shout", "крикнул"],
     ["chat.channel.whisper", "шепнул"],
-    ["chat.channel.staff", "(Staff)"]
+    ["chat.channel.staff", "(Staff)"],
+    ["chat.mode.player.join", "* %s подключился к серверу."],
+    ["chat.mode.player.leave", "* %s отключился от сервера [%s]."],
+
+    ["rating.gotchange", "%s изменил ваш рейтинг на %s."],
+    ["rating.changed", "Вы изменили рейтинг %s на %s."],
+    ["rating.limitsame", "Вы не можете менять рейтинг одного и того же игрока 2 раза подряд."],
+    ["rating.limitday", "Вы можете изменять рейтинг только 1 раз в день."],
+    ["rating.limitself", "Вы не можете изменять собственный рейтинг."],
+    ["scoreboard.title", "Онлайн: %s\/%s\nАвторизовано: %s"],
+    ["scoreboard.name", "Никнейм"],
+    ["scoreboard.murders", "Убито"],
+    ["scoreboard.lifetime", "Прожито"],
+    ["scoreboard.ping", "Пинг"],
+    ["scoreboard.fps", "FPS"],
+    ["scoreboard.hint", "Нажмите %s чтобы показать\/спрятать курсор."],
+    ["scoreboard.column_sort", "Сортировать список игроков."],
+    ["scoreboard.vote_up", "Нажмите чтобы повысить рейтинг этого игрока на +%s."],
+    ["scoreboard.vote_down", "Нажмите чтобы снизить рейтинг этого игрока на -%s."],
+    ["scoreboard.vote_rules", "Вы можете менять рейтинг других игроков только 1 раз в сутки.\nВы не можете менять рейтинг одного и того же игрока 2 дня подряд."]
   ]
 ]
