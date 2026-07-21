@@ -12,6 +12,7 @@
     ["chat.mode.shout", "Кринуть"],
     ["chat.mode.whisper", "Шепнуть"],
     ["chat.mode.action", "Действие"],
+    ["chat.mode.staff", "(Staff)"],
 
     ["chat.channel.global", "(Общий)"],
     ["chat.channel.talk", "сказал"],
