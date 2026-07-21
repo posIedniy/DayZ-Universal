@@ -12,8 +12,6 @@
     ["chat.mode.shout", "Shout"],
     ["chat.mode.whisper", "Whisper"],
     ["chat.mode.action", "Action"],
-    ["chat.mode.player.join", "%s connected to the server."],
-    ["chat.mode.player.leave", "%s disconnected from the server [%s]."],
 
     ["chat.channel.global", "(Global)"],
     ["chat.channel.talk", "talk"],
@@ -22,6 +20,13 @@
     ["chat.channel.staff", "(Staff)"],
     ["chat.mode.player.join", "* %s connected to the server."],
     ["chat.mode.player.leave", "* %s disconnected from the server [%s]."],
+    ["player.loggedin", "%s has logged in."],
+    ["quitreason.quit", "Quit"],
+    ["quitreason.unknown", "Undefined"],
+    ["quitreason.kicked", "Kicked"],
+    ["quitreason.banned", "Banned"],
+    ["quitreason.badnetwork", "Bad Connection"],
+    ["quitreason.timedout", "Time Out"],
 
     ["rating.gotchange", "%s changed your rating to %s."],
     ["rating.changed", "You changed the rating of %s to %s."],

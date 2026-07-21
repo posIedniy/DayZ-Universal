@@ -12,8 +12,6 @@
     ["chat.mode.shout", "Кринуть"],
     ["chat.mode.whisper", "Шепнуть"],
     ["chat.mode.action", "Действие"],
-    ["chat.mode.player.join", "%s подключился к серверу."],
-    ["chat.mode.player.leave", "%s отключился от сервера [%s]."],
 
     ["chat.channel.global", "(Общий)"],
     ["chat.channel.talk", "сказал"],
@@ -22,6 +20,13 @@
     ["chat.channel.staff", "(Staff)"],
     ["chat.mode.player.join", "* %s подключился к серверу."],
     ["chat.mode.player.leave", "* %s отключился от сервера [%s]."],
+    ["player.loggedin", "%s вошёл в игру."],
+    ["quitreason.quit", "Выход"],
+    ["quitreason.unknown", "Неизвестно"],
+    ["quitreason.kicked", "Кикнут"],
+    ["quitreason.banned", "Забанен"],
+    ["quitreason.badnetwork", "Плохое соединение"],
+    ["quitreason.timedout", "Потеря соединения"],
 
     ["rating.gotchange", "%s изменил ваш рейтинг на %s."],
     ["rating.changed", "Вы изменили рейтинг %s на %s."],
