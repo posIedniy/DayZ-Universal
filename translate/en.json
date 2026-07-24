@@ -12,7 +12,7 @@
     ["chat.mode.shout", "Shout"],
     ["chat.mode.whisper", "Whisper"],
     ["chat.mode.action", "Action"],
-    ["chat.mode.staff", "(Staff)"],
+    ["chat.mode.staff", "Staff"],
 
     ["chat.channel.global", "(Global)"],
     ["chat.channel.talk", "talk"],

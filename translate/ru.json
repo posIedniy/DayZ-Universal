@@ -9,10 +9,10 @@
 
     ["chat.mode.global", "Общий"],
     ["chat.mode.talk", "Говорить"],
-    ["chat.mode.shout", "Кринуть"],
+    ["chat.mode.shout", "Крикнуть"],
     ["chat.mode.whisper", "Шепнуть"],
     ["chat.mode.action", "Действие"],
-    ["chat.mode.staff", "(Staff)"],
+    ["chat.mode.staff", "Staff"],
 
     ["chat.channel.global", "(Общий)"],
     ["chat.channel.talk", "сказал"],
